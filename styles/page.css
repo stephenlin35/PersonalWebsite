@@ -1,0 +1,156 @@
+* {
+    margin: auto;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+}
+
+.info {
+    font-size: 20px;
+    border-right: 2px solid #D9853B;
+    border-left: 2px solid #D9853B;
+    padding: 20px; 
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Noto Serif', serif; */
+}
+
+.info p {
+    margin-bottom: 20px;
+}
+
+.info a {
+    color: #e74c3c;
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+.info a:hover{
+  color: #222;
+}
+
+.info a:before, .info a:after{
+  content: '';
+  background: #e74c3c;
+  position: absolute;
+  width: 0;
+  height: 2px;
+  -webkit-transition: all .3s linear;
+  -moz-transition: all .3s linear;
+  transition: all .3s linear;
+}
+
+.info a:before{
+  top: 0;
+  left: 0;
+}
+
+.info a:after{
+  top: 100%;
+  right: 0;
+}
+
+.info a:hover:before, .info a:hover:after{
+  width: 100%;
+}
+
+.navbar {
+    background-color: #4A4A4A;
+    border-bottom: solid #D9853B;
+    border-width: 8px;
+    height: 60px;
+    word-spacing: 30px;
+    text-align: center;
+}
+
+.slidein a {
+    overflow: hidden;
+}
+
+.logo {
+    display: inline-block;
+    line-height: 24px;
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: none;
+    word-spacing: normal;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #fff;
+    float: left;
+    margin-top: 15px;
+}
+
+.slidein a span {
+    position: relative;
+    display: inline-block;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.slidein a span:before {
+    position: absolute; 
+    top: 100%;
+    content: attr(data-hover);
+    font-weight: 700;
+    color: #D9853B;
+    letter-spacing: 3px;
+    
+    text-transform: uppercase;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slidein a:hover span, .slidein a:focus span {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    transform: translateY(-100%);
+}
+
+.navbar-menu {
+    margin: 0;
+    float: right;
+}
+
+.navbar-menu > li {
+    display: inline-block;
+    margin-top: 15px;
+    transition: ease-out 0.5s;
+}
+
+li a:hover {
+    background-color: #D9853B;
+    color: #4A4A4A;
+    padding-top: 500px;
+    padding-bottom: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    transition: ease-out 0.5s;
+}
+
+.nav-stuff {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #D9853B;
+    transition: ease-out 0.2s;
+    text-transform: uppercase;
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+}
