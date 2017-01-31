@@ -8,4 +8,4 @@ A simple website for me to show employers.
 * Create a Reading List for 2017
 * Finish editing Resume page
 
-<mark>NOTE:</mark> I was going to post the complete website code on GitHub, however due to some security concerns involving the Contact page's mail code. Until I find a better solution, it will not be posted.
+==NOTE==: I was going to post the complete website code on GitHub, however due to some security concerns involving the Contact page's mail code. Until I find a better solution, it will not be posted.
