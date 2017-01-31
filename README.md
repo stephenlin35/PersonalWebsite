@@ -6,3 +6,4 @@ A simple website for me to show employers.
 * ~~Create Resume, Projects, and Contact page~~
 * ~~Optimize website~~ 
 * Create a Reading List for 2017
+* Finish editing Resume page
