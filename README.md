@@ -12,4 +12,4 @@ A simple website for me to show employers.
 
 Website is now up and running at: www.stephenlin.info
 
-**NOTE**: There's still a couple bugs that appear in different screen solutions and browsers.
+**NOTE**: There's still a couple bugs that appear in different screen solutions and browsers. Works best on larger displays.
