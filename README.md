@@ -2,7 +2,8 @@
 A simple website for me to show employers.
 
 ##Future checkpoints
-* ~~Use PHP to include HTML navigator bar in all pages~~ Used Flask (Jinga2) instead
+* ~~Use PHP to include HTML navigator bar in all pages~~ 
+  * Used Flask (Jinga2) instead
 * ~~Create Resume, Projects, and Contact page~~
 * ~~Optimize website~~ 
 * Create a Reading List for 2017
