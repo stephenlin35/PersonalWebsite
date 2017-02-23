@@ -5,8 +5,8 @@ A simple website for me to show employers.
 * [ ] ~~Use PHP to include HTML navigator bar in all pages~~ 
   * [x] Used Flask (Jinga2) instead
 * [x] Create Resume, Projects, and Contact page
-* [ ]Optimize website
-* [ ]Create a Reading List for 2017
+* [ ] Optimize website
+* [ ] Create a Reading List for 2017
 * [x] Finish editing Resume page
 
 ~~**NOTE**: I was going to post the complete website code on GitHub, however due to some security concerns involving the Contact page's mail code. Until I find a better solution, it will not be posted.~~
