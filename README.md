@@ -6,6 +6,7 @@ A simple website for me to show employers.
   * [x] Used Flask (Jinga2) instead
 * [x] Create Resume, Projects, and Contact page
 * [ ] Optimize website
+  * [ ] Needs leverage  browser cacheing (Really slow startup screen)
 * [ ] Create a Reading List for 2017
 * [x] Finish editing Resume page
 
@@ -14,3 +15,4 @@ A simple website for me to show employers.
 Website is now up and running at: www.stephenlin.info
 
 **NOTE**: There's still a couple bugs that appear in different screen solutions and browsers. Works best on larger displays.
+   
