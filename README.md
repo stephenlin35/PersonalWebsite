@@ -9,6 +9,7 @@ A simple website for me to show employers.
   * [ ] Needs leverage  browser cacheing (Really slow startup screen)
 * [ ] Create a Reading List for 2017
 * [x] Finish editing Resume page
+* [ ] Fix Contact page
 
 ~~**NOTE**: I was going to post the complete website code on GitHub, however due to some security concerns involving the Contact page's mail code. Until I find a better solution, it will not be posted.~~
 
