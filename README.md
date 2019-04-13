@@ -13,7 +13,7 @@ A simple website for me to show employers.
 
 ~~**NOTE**: I was going to post the complete website code on GitHub, however due to some security concerns involving the Contact page's mail code. Until I find a better solution, it will not be posted.~~
 
-Website is now up and running at: www.stephenlin.info
+Website is now up and running at: www.stephenlin.me
 
 **NOTE**: There's still a couple bugs that appear in different screen solutions and browsers. Works best on larger displays.
    
